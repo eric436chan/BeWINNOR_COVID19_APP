@@ -1,0 +1,87 @@
+<resources>
+    <string name="blank" />
+    <string name="app_name">COVID-19</string>
+    <string name="loading">Loading…</string>
+    <string name="outbreak">Current outbreak</string>
+    <string name="card_text_2">Discover your risk of death due COVID-19 infection.</string>
+    <string name="card_text_1"> My Mortality Risk</string>
+    <string name="cdc_link"><a href="https://covid.cdc.gov/covid-data-tracker/#datatracker-home">Details</a></string>
+    <string name="overview">US Cases Overview</string>
+    <string name="infected">INFECTED</string>
+    <string name="vaccinated">VACCINATED</string>
+    <string name="deaths">DEATHS</string>
+    <string name="line_chart">US Infected Line Chart</string>
+    <string name="questions">Questions</string>
+    <string name="results">Results</string>
+    <string name="process">1</string>
+    <string name="out_of">/13</string>
+    <string name="hash_tags">#covid-19 #johns-hopkins #risk-tools</string>
+    <string name="q1">What is you age?</string>
+    <string name="q2">What is your zip code?</string>
+    <string name="q3">Which race/ethnicity group you most closely associate with?</string>
+    <string name="q4">Please specify your sex assigned at birth.</string>
+    <string name="q5">What is your height in feet/inches?</string>
+    <string name="q6">What is your weight in pounds(lbs)?</string>
+    <string name="q7">Have you ever smoked?</string>
+    <string name="q8">Are you currently a smoker?</string>
+    <string name="q9">Have you ever been diagnosed with any of the following conditions?</string>
+    <string name="q10">Is your diabetes controlled or Uncontrolled?</string>
+    <string name="q11">Please select the type of Cancer you been diagnosed with?</string>
+    <string name="q12">How long have you been diagnosed with hematological cancer?</string>
+    <string name="q13">How long have you been diagnosed with non-hematological cancer?</string>
+    <string name="next">Next</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="feet">Feet</string>
+    <string name="inches">Inches</string>
+    <string name="controlled">Controlled (HbA1c less than 7.5%)</string>
+    <string name="uncontrolled">Controlled (HbA1c more than or equal to 7.5%)</string>
+    <string name="hematological">Hematological</string>
+    <string name="nonhematological">Non-Hematological</string>
+    <string name="both">Both</string>
+    <string name="year1">Less than 1 year ago</string>
+    <string name="years4.9">1 to 4.9 years ago</string>
+    <string name="years5">5 years ago or more</string>
+    <string name="us_infected_map">US Infected Map</string>
+    <string name="q1hint">Enter an age from 18 – 99</string>
+    <string name="q2hint">Enter your zip code</string>
+    <string name="q5hint1">Feet</string>
+    <string name="q5hint2">Inches</string>
+    <string name="q6hint">Enter you weight in pounds(lbs)</string>
+    <string name="condition1">Asthma</string>
+    <string name="condition2">Chronic respiratory disease (other than asthma) including COPD, fibrosing lung disease, bronchiectasis, or cystic fibrosis</string>
+    <string name="condition3">Chronic heart disease including chronic heart failure, ischaemic heart disease, and severe valve congenital heart disease</string>
+    <string name="condition4">Diabetes</string>
+    <string name="condition5">Any Cancer</string>
+    <string name="condition6">Stroke</string>
+    <string name="condition7">Rheumatoid Arthritis (RA), Systemic Lupus Erythematosus (SLE) or Psoriasis</string>
+    <string name="condition8">Hypertension</string>
+    <string name="condition9">Chronic Kidney Disease</string>
+    <string name="risk1"><![CDATA[<=1.2]]></string>
+    <string name="risk1_description">Close to or lower than average</string>
+    <string name="risk2"><![CDATA[>1.2 to <=2]]></string>
+    <string name="risk2_description">Moderately elevated</string>
+    <string name="risk3"><![CDATA[>2 to <=5]]></string>
+    <string name="risk3_description">Substantially elevated</string>
+    <string name="risk4"><![CDATA[>5 to <=10]]></string>
+    <string name="risk4_description">High</string>
+    <string name="risk5"><![CDATA[>10]]></string>
+    <string name="risk5_description">Very High</string>
+    <string name="risk_category">Risk Category</string>
+    <string name="color">Color</string>
+    <string name="fold_risk">Fold-Risk</string>
+    <string name="risk_result1">Based on the information you have provided, the tool estimates that you have &lt;b>%1$s&lt;/b> (95%% CI: &lt;b>%2$s&lt;/b> - &lt;b>%3$s&lt;/b>) times the risk of dying from COVID-19 compared to the average risk for the US population. Based on the estimated risk, you are categorized to be at &lt;b>%4$s&lt;/b> risk based on the following chart:</string>
+    <string name="risk_result2">Further, based on the information available from pandemic projections in your state of residence, the tool estimates an absolute rate of mortality of &lt;b>%1$s&lt;/b> (95%% CI: &lt;b>%2$s&lt;/b> - &lt;b>%3$s&lt;/b>) per &lt;b>%4$s&lt;/b> individuals in subgroups of the population with a similar risk profile to yours during the period of &lt;b>%5$s&lt;/b></string>
+    <string name="about">About</string>
+    <string name="this_app">About this App</string>
+    <string name="this_app_description">This an Android application is for visualizing current COVID-19 data and asserting individuals\&apos; death risk when infected with COVID-19 using various APIs and a systematic risk calculator developed by Johns Hopkins University</string>
+    <string name="the_data">About the Data</string>
+    <string name="the_data_description1"><a href="https://covid19api.com/">COVID19API</a>, a free API for data on the Coronavirus sourced from <a href="https://github.com/CSSEGISandData/COVID-19">Johns Hopkins CSSE.</a></string>
+    <string name="the_data_description2"><a href="https://github.com/nytimes/covid-19-data">The New York Times COVID-19 Data</a>, a collection of COVID-19 Data gathered by The New York Times.</string>
+    <string name="the_data_description3"><a href="https://data.cdc.gov/">Data.CDC.gov</a>, a collection of COVID-19 Vaccinations numbers for <a href="https://data.cdc.gov/Vaccinations/COVID-19-Vaccine-Distribution-Allocations-by-Juris/saz5-9hgg">Pfizer</a>, <a href="https://data.cdc.gov/Vaccinations/COVID-19-Vaccine-Distribution-Allocations-by-Juris/b7pe-5nws">Moderna</a>, and <a href="https://data.cdc.gov/Vaccinations/COVID-19-Vaccine-Distribution-Allocations-by-Juris/w9zu-fywh">Janssen</a> vaccinations.</string>
+    <string name="the_risk_calculator">About the Risk Calculator</string>
+    <string name="the_risk_calculator_description">The current risk-score calculation was developed using information on the risk for COVID-19 mortality associated with age, gender, race, social deprivation and 12 different health conditions published in a recent large UK study. The risk score was adopted to US setting by information on mortality rate by age and various race/ethnicity groups published by the Center for Disease Control. Further relative risks for individuals are provided by standardization with respect to average risk for the US population, calculated using available information on prevalence and co-occurrence of various risk-factors available form national databases.</string>
+    <string name="implemented_later">This feature will be implemented later</string>
+</resources>

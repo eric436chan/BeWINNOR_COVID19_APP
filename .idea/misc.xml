@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/COVID19/app/src/main/res/drawable/ic_arrow.xml" value="0.4036458333333333" />
+        <entry key="..\:/COVID19/app/src/main/res/drawable/ic_check.xml" value="0.4036458333333333" />
+        <entry key="..\:/COVID19/app/src/main/res/drawable/ic_virus_corner.xml" value="0.4036458333333333" />
+        <entry key="..\:/COVID19/app/src/main/res/layout/activity_main.xml" value="0.22509057971014493" />
+        <entry key="..\:/COVID19/app/src/main/res/layout/activity_questionnaire.xml" value="0.22509057971014493" />
+        <entry key="..\:/COVID19/app/src/main/res/layout/activity_settings.xml" value="0.22509057971014493" />
+        <entry key="..\:/COVID19/app/src/main/res/layout/activity_splash.xml" value="0.22509057971014493" />
+        <entry key="..\:/COVID19/app/src/main/res/layout/spinner_questionaire_dropdown_item.xml" value="0.22509057971014493" />
+        <entry key="..\:/COVID19/app/src/main/res/layout/spinner_questionnaire_dropdown_item.xml" value="0.1793478260869565" />
+        <entry key="..\:/COVID19/app/src/main/res/layout/spinner_questionnaire_item.xml" value="0.22509057971014493" />
+        <entry key="..\:/COVID19/app/src/main/res/layout/spinner_states_dropdown_item.xml" value="0.22509057971014493" />
+        <entry key="..\:/COVID19/app/src/main/res/layout/spinner_states_item.xml" value="0.22509057971014493" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

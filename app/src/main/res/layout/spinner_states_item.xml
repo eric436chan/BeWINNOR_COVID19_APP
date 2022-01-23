@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@android:id/text1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:fontFamily="@font/bold"
+    android:textColor="@color/dark"
+    android:textSize="35sp"
+    app:drawableRightCompat="@drawable/ic_dropdown"
+    app:drawableTint="@color/gray" />

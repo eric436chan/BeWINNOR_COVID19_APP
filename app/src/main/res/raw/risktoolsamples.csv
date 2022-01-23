@@ -1,0 +1,16 @@
+﻿age,zip_code,race_ethnicity,sex,feet,inches,weight,smoked,smoking,asthma,chronic_respiratory_disease,chronic_heart_disease,diabetes,cancer,stroke,ra_sle_psoriasis,hypertension,chronic_kidney_disease,diabetes_controlled,diabetes_uncontrolled,cancer_hematological,cancer_nonhematological,cancer_hematological_diagnosed,cancer_nonhematological_diagnosed,risk,ci_risk_upper,ci_risk_lower,risk_category,mortality_rate,ci_rate_upper,ci_rate_lower,population,period
+90,21804,others,female,5,5,176,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.10,5.40,6.8,high,3.5,2.0,6.3,10000,04/10/2021 - 04/30/2021
+35,23451,asian,male,5,7,180,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0.02,0.02,0.03,closer to or lower than average,1.2,0.6,2.3,1000000,04/10/2021 - 04/30/2021
+90,30810,american indan or alaska native,female,5,6,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.70,6.10,7.4,high,4.4,2.6,7.4,10000,04/10/2021 - 04/30/2021
+18,30813,american indan or alaska native,male,5,9,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04,0.04,0.04,closer to or lower than average,2.5,1.5,4.3,10000000,04/10/2021 - 04/30/2021
+84,48060,others,male,5,0,210,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,1,0,4.10,3.40,4.9,substantially elevated,4.6,2.2,9.9,10000,04/10/2021 - 04/30/2021
+60,49085,non-hispanic white,male,6,2,256,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.72,0.65,0.8,closer to or lower than average,0.8,0.4,1.7,100000,04/10/2021 - 04/30/2021
+88,77449,black or african american,female,5,9,298,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,43.30,36.40,51.6,very high,2.0,1.3,3.2,1000,04/10/2021 - 04/30/2021
+40,77494,non-hispanic white,female,6,0,120,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.02,0.01,0.02,closer to or lower than average,0.7,0.5,1.1,10000000,04/10/2021 - 04/30/2021
+22,90037,hispanic,male,6,1,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.03,0.03,0.04,closer to or lower than average,1.6,1.0,2.6,1000000,04/10/2021 - 04/30/2021
+18,90038,black or african american,male,6,2,300,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0.18,0.16,0.2,closer to or lower than average,0.8,0.5,1.4,1000000,04/10/2021 - 04/30/2021
+75,90500,asian,female,5,7,140,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3.20,2.90,3.5,substantially elevated,1.5,0.9,2.4,10000,04/10/2021 - 04/30/2021
+45,90505,hispanic,male,5,7,241,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.29,0.25,0.33,closer to or lower than average,1.3,0.8,2.2,100000,04/10/2021 - 04/30/2021
+72,96704,native hawaiian or other pacific islander,female,5,1,160,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1.40,1.20,1.5,moderately elevated,2.3,0.8,6.9,100000,04/10/2021 - 04/30/2021
+70,96708,native hawaiian or other pacific islander,male,5,5,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.40,1.30,1.6,moderately elevated,2.5,0.8,7.4,100000,04/10/2021 - 04/30/2021
+45,98837,black or african american,male,6,3,210,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,2,0,0.46,0.42,0.51,closer to or lower than average,1.8,0.9,5.2,100000,04/10/2021 - 04/30/2021
